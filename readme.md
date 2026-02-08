@@ -1,22 +1,34 @@
-# 🔐 Keylogger & Mouse Control - Educational Project
+# ⌨️ Educational Keylogger (Security Awareness Project)
 
-This project is created by **Mugesh Selvam** for **educational and ethical hacking purposes** only.
+## 📌 Purpose
+This project demonstrates **how keylogging attacks work** so that users and organizations can better understand and defend against them.
+
+---
+
+## 🧠 What This Project Teaches
+- How keystroke logging attacks are implemented
+- Why endpoint protection is critical
+- Importance of user awareness and secure systems
+
+---
+
+## 🛠️ Technologies Used
+- Python
+
+---
+
+## 🔐 Cyber Security Learning Outcomes
+- Malware behavior understanding (educational)
+- Attack vs defense awareness
+- Ethical hacking fundamentals
+
+---
 
 ## ⚠️ Disclaimer
+This project is created **strictly for educational and ethical learning purposes only**.  
+It is **not intended for malicious use**.
 
-This tool is intended for **learning, research, and authorized testing only**.
+---
 
-**Do NOT** use this tool on any computer or system **without the owner’s explicit permission**.  
-I, the creator, am not responsible for any misuse.
-
-## 🎯 Features
-
-- Records keyboard strokes using `pynput`
-- Controls mouse movement programmatically
-
-## 📦 Requirements
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
+## 👤 Author
+**Mugesh Selvam K**
